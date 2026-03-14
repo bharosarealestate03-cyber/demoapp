@@ -1,0 +1,13 @@
+name: demoapp
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^latest
+  sqflite: ^latest
+  image_picker: ^latest
+  url_launcher: ^latest
+  intl: ^latest
+  http: ^latest
+  connectivity_plus: ^latest
+    
